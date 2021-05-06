@@ -37,7 +37,7 @@ Python version check command
 |Python 3.6    |December 23, 2016|
 |Python 3.7    |June 27, 2018|
 |Python 3.8    |October 14, 2019|
-|Python 3.9|October 45, 2020|
+|Python 3.9|October 5, 2020|
 
 # Download the latest version of Python
 https://www.python.org/downloads/
