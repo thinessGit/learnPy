@@ -23,7 +23,7 @@
 * https://discuss.python.org/t/is-python-a-compiled-language-or-an-interpreted-language/6556/3
 
 
->By 
-Thiness Babu
-Automation Quality Software Engineer
-https://github.com/thinessGit/
+>By<br/> 
+Thiness Babu<br/> 
+Automation Quality Software Engineer<br/>
+https://github.com/thinessGit/<br/>
