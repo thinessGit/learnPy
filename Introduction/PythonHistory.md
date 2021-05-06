@@ -39,7 +39,7 @@ https://www.python.org/downloads/
 * https://www.python.org/downloads/release/python-390/
 
 
-By 
-Thiness Babu
-Automation Quality Software Engineer
-https://github.com/thinessGit/
+>By<br/> 
+**Thiness Babu**<br/> 
+Automation Quality Engineer<br/>
+https://github.com/thinessGit/ <br/>

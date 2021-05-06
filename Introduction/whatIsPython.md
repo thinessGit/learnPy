@@ -24,6 +24,6 @@
 
 
 >By<br/> 
-Thiness Babu<br/> 
-Automation Quality Software Engineer<br/>
-https://github.com/thinessGit/<br/>
+**Thiness Babu**<br/> 
+Automation Quality Engineer<br/>
+https://github.com/thinessGit/ <br/>
