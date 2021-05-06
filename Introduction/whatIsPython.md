@@ -21,3 +21,9 @@
 * https://www.geeksforgeeks.org/python-compiled-or-interpreted/
 * https://stackoverflow.com/questions/6889747/is-python-interpreted-or-compiled-or-both
 * https://discuss.python.org/t/is-python-a-compiled-language-or-an-interpreted-language/6556/3
+
+
+>By 
+Thiness Babu
+Automation Quality Software Engineer
+https://github.com/thinessGit/
