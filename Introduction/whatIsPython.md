@@ -5,7 +5,7 @@ object-oriented programming. Python’s elegant syntax and dynamic typing,togeth
 scripting and rapid application development in many areas on most platforms.
 
 # Python is compiled or Interpreted ?
- ###Python language is compiled first and then interpreted.Both interpreted and compiled to optimized machine code at runtime
+ ### Python language is compiled first and then interpreted.Both interpreted and compiled to optimized machine code at runtime
 
 * **Step 1** : "Only" Source compiled to bytecode
     * *.py file to *.pyc file
@@ -18,7 +18,7 @@ scripting and rapid application development in many areas on most platforms.
 Python interpreters, like PyPy, include a “Just In Time” compiler which turn parts of the byte-code into machine language as needed, for extra speed, without losing the advantages of having an interpreter.
 
 
-###Reference URL :-
+### Reference URL :-
 * https://docs.python.org/3/tutorial/index.html
 * https://www.geeksforgeeks.org/python-compiled-or-interpreted/
 * https://stackoverflow.com/questions/6889747/is-python-interpreted-or-compiled-or-both
