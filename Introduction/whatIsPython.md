@@ -13,7 +13,7 @@
   * interpreter has a “virtual machine” to run the byte code for your system/CPU dependent execution 
 
 
-Python interpreters, like PyPy, include a “Just In Time” compiler which turn parts of the byte-code into machine language as needed, for extra speed, without losing the advantages of having an interpreter.
+**Note:** Python interpreters, like PyPy, include a “Just In Time” compiler which turn parts of the byte-code into machine language as needed, for extra speed, without losing the advantages of having an interpreter.
 
 
 ### Reference URL :-
