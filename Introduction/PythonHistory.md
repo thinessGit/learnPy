@@ -1,10 +1,19 @@
 # Python History
+* Python was conceived in the late 1980s by Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in the Netherlands   as a successor to ABC programming language
+* Origin of Name : As Van Rossum was creating Python, he was reading the script of a popular BBC comedy series called “Monty Python’s Flying Circus”. So he decided on the name Python for his new language because it was unique and mysterious 
+ 
 
-* Python was conceived in the late 1980s by Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in the Netherlands
-  as a successor to ABC programming language
-*
+# Version 1: Python 1.0
+In January 1994, the first version of Python 1.0 was released. This version 1 includes the major new features like the functional programming tools filter, reduce, map, and lambda etc.
+# Version 2: Python 2.0
+After Six and a half years later, Python 2.0 was introduced in October 2000. In this release, a full garbage collector, list comprehensions were included, and it also supports Unicode.
+# Version 3: Python 3.0
+Python then after 8 years, the next major release was made. This release was Python 3.0 also known as”Py3K” or “Python 3000”.
 
 # Python Version
+
+Python version check command
+> python --version  
 
 |Python Version|Released Date|
 |--------------|-------------|
@@ -37,6 +46,7 @@ https://www.python.org/downloads/
 
 * https://en.wikipedia.org/wiki/Python_(programming_language)
 * https://www.python.org/downloads/release/python-390/
+* https://intellipaat.com/blog/tutorial/python-tutorial/python-version/
 
 
 >By<br/> 
