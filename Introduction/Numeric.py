@@ -1,5 +1,5 @@
-# Python program to
-# demonstrate numeric value
+# Python code to
+# imply numeric value usage
 
 VariableIntDataType = 5
 print("Int Variable Type : ", type(VariableIntDataType))
@@ -12,3 +12,9 @@ print(VariableFloatDataType)
 VariableComplexDataType = 95 + 5j
 print("\nComplex Variable Type :  ", type(VariableComplexDataType))
 print(VariableComplexDataType)
+
+
+# By
+# Thiness Babu
+# Automation Quality Engineer
+# https://github.com/thinessGit/
