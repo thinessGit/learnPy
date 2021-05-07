@@ -4,8 +4,7 @@ Data types are the classification or categorization of data storage and operatio
 
 Following are the standard or built-in data type of Python:
 * **Text Type**:	str
-* **Numeric Types**:	int, float, complex
-  [a link](https://github.com/user/repo/blob/branch/other_file.md)
+* [**Numeric Types**](https://github.com/thinessGit/learnPy/blob/main/Introduction/Numeric.py):	int, float, complex  
 * **Sequence Types**:	list, tuple, range
 * **Mapping Type**:	dict
 * **Set Types**:	set, frozenset
