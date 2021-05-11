@@ -49,7 +49,7 @@ Sample Python Strings code -> https://github.com/thinessGit/learnPy/blob/main/In
 * complex (Complex Numbers)
   * Complex number have Real and Imaginary
   * Imaginary is denoted by letter "j" or "J"
-  * **Syntax:** <real part> + <imaginary part>j
+  * **Syntax:** << real part >> + << imaginary part >>  j
   * **Ex:** 95 + 5J or 95 + 5j
 >Note :<br/> 
 Sample Python Numeric code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/Numeric.py
