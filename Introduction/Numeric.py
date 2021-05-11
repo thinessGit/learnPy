@@ -9,7 +9,7 @@ VariableFloatDataType = 4.909
 print("\nFloat Variable Type : ", type(VariableFloatDataType))
 print(VariableFloatDataType)
 
-VariableComplexDataType = 95 + 5j
+VariableComplexDataType = 95 + 5J
 print("\nComplex Variable Type :  ", type(VariableComplexDataType))
 print(VariableComplexDataType)
 
