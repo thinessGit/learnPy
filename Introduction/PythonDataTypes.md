@@ -66,7 +66,7 @@ Sample Python Numeric code -> https://github.com/thinessGit/learnPy/blob/main/In
   * list() Constructor
     * list() constructor creates a new list
     * **Ex 2:** list2 = list(("python", "java", "c", "C++"))
-* Tuple 
+* [**Tuple**](https://github.com/thinessGit/learnPy/blob/main/Introduction/tuple/Tuple.py)   
   * Tuple is a collection which is ordered and **unchangeable**. Allows duplicate members
   * Round brackets are used **( )**
   * Items are indexed
