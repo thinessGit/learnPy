@@ -51,16 +51,47 @@ Sample Python Strings code -> https://github.com/thinessGit/learnPy/blob/main/In
   * Imaginary is denoted by letter "j" or "J"
   * **Syntax:** << real part >> + << imaginary part >>  j
   * **Ex:** 95 + 5J or 95 + 5j
+
+  
 >Note :<br/> 
 Sample Python Numeric code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/Numeric.py
+
+### **Sequence Types**
+* [**List**](https://github.com/thinessGit/learnPy/blob/main/Introduction/list/List.py)  
+  * List is a collection which is ordered and **changeable**. Allows duplicate members
+  * Store multiple datatype values in a single variable 
+  * items are indexed
+  * Square brackets are used **[ ]**
+  * **Ex 1:** list1 = [589, "MANU", 89.63, True, "girl"]
+  * list() Constructor
+    * list() constructor creates a new list
+    * **Ex 2:** list2 = list(("python", "java", "c", "C++"))
+* Tuple 
+  * Tuple is a collection which is ordered and **unchangeable**. Allows duplicate members
+  * Round brackets are used **( )**
+  * Items are indexed
+  * Elements of a mutable tuple items can be changed
+  * **Ex 1:** tuple1 = ("python", "java", "c", "C++")
+* range
+      
+|List|Tuple|
+|---|---|
+|It is mutable|It is immutable|
+|The implication of iterations is time-consuming in the list.|Implications of iterations are much faster in tuples.|
+|Operations like insertion and deletion are better performed.|Elements can be accessed better.|
+|Consumes more memory.|Consumes less memory.|
+|Many built-in methods are available.|Does not have many built-in methods.|
+|Unexpected errors and changes can easily occur in lists.|Unexpected errors and changes rarely occur in tuples.|
+|listEx = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]|tupleEx = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)|
 
 ### Reference URL :-
 * https://www.geeksforgeeks.org/python-data-types/
 * https://docs.python.org/3/library/stdtypes.html
 * https://www.w3schools.com/python/python_datatypes.asp
 * https://www.programiz.com/python-programming/variables-datatypes
-
-
+* https://www.w3schools.com/python/python_lists.asp
+* http://pythontutor.com/
+* https://www.upgrad.com/blog/list-vs-tuple/
 >By<br/> 
 **Thiness Babu**<br/> 
 Automation Quality Engineer<br/>
