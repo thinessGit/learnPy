@@ -92,6 +92,7 @@ Sample Python Numeric code -> https://github.com/thinessGit/learnPy/blob/main/In
 * https://www.w3schools.com/python/python_lists.asp
 * http://pythontutor.com/
 * https://www.upgrad.com/blog/list-vs-tuple/
+
 >By<br/> 
 **Thiness Babu**<br/> 
 Automation Quality Engineer<br/>
