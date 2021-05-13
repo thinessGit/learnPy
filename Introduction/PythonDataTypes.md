@@ -72,7 +72,7 @@ Sample Python Numeric code -> https://github.com/thinessGit/learnPy/blob/main/In
   * Items are indexed
   * Elements of a mutable tuple items can be changed
   * **Ex 1:** tuple1 = ("python", "java", "c", "C++")
-* [**Range**]()
+* [**Range**](https://github.com/thinessGit/learnPy/blob/main/Introduction/range/Range.py)
   * Iterate a certain number of times in for loops in Python
   * Returns a range object
   * range() constructor method returns an object of the range class
