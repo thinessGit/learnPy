@@ -7,3 +7,11 @@
   * list() Constructor
     * list() constructor creates a new list
     * **Ex 2:** list2 = list(("python", "java", "c", "C++"))
+    
+>**Note** :<br/> 
+Sample Python List code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/list/List.py<br/>
+
+> >By<br/> 
+**Thiness Babu**<br/> 
+Automation Quality Engineer<br/>
+https://github.com/thinessGit/ <br/>

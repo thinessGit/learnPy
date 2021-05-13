@@ -3,9 +3,9 @@
 Data types are the classification or categorization of data storage and operations performed on it.
 
 Following are the standard or built-in data type of Python:
-* **Text Type**:	[Strings](https://github.com/thinessGit/learnPy/blob/main/Introduction/Strings.py)
-* [**Numeric Types**](https://github.com/thinessGit/learnPy/blob/main/Introduction/Numeric.py):	int, float, complex  
-* **Sequence Types**:	[list](#List), tuple, range
+* **Text Type**:	[Strings](#Python Strings)
+* [**Numeric Types**](https://github.com/thinessGit/learnPy/blob/main/Introduction/Numeric.py):	[int](#int), [float](#), [complex](#)  
+* **Sequence Types**:	[list](#List), [tuple](#Tuple), [range](#Range)
 * **Mapping Type**:	dict
 * **Set Types**:	set, frozenset
 * **Boolean Type**:	bool
@@ -32,7 +32,7 @@ Following are the standard or built-in data type of Python:
 Sample Python Strings code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/Strings.py
 
 ### [**Numeric Types**](https://github.com/thinessGit/learnPy/blob/main/Introduction/Numeric.py)
-* int (Integers)
+* ### int (Integers)
   * (+ve) positive or (-ve) negative whole numbers with no fractional part & unlimited precision
   * int(Integer) values belong to the "**int**" class
   * **Ex:** 5,69,-99,-108
@@ -67,13 +67,13 @@ Sample Python Numeric code -> https://github.com/thinessGit/learnPy/blob/main/In
   * list() Constructor
     * list() constructor creates a new list
     * **Ex 2:** list2 = list(("python", "java", "c", "C++"))
-* [**Tuple**](https://github.com/thinessGit/learnPy/blob/main/Introduction/tuple/Tuple.py)   
+* ### [**Tuple**](https://github.com/thinessGit/learnPy/blob/main/Introduction/tuple/Tuple.py)   
   * Tuple is a collection which is ordered and **unchangeable**. Allows duplicate members
   * Round brackets are used **( )**
   * Items are indexed
   * Elements of a mutable tuple items can be changed
   * **Ex 1:** tuple1 = ("python", "java", "c", "C++")<br/> 
-* [**Range**](https://github.com/thinessGit/learnPy/blob/main/Introduction/range/Range.py)
+* ### [**Range**](https://github.com/thinessGit/learnPy/blob/main/Introduction/range/Range.py)
   * Iterate a certain number of times in for loops in Python
   * Returns a range object
   * range() constructor method returns an object of the range class
