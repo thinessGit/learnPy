@@ -72,8 +72,32 @@ Sample Python Numeric code -> https://github.com/thinessGit/learnPy/blob/main/In
   * Items are indexed
   * Elements of a mutable tuple items can be changed
   * **Ex 1:** tuple1 = ("python", "java", "c", "C++")
-* range
-      
+* [**Range**]()
+  * Iterate a certain number of times in for loops in Python
+  * Returns a range object
+  * range() constructor method returns an object of the range class
+  * immutable sequence type
+  * **Syntax 1:** range(start, stop, step)
+    * start: (Optional) An integer to start counting from, defaults to 0
+    * stop: An integer to stop the count at
+    * step: (Optional) An integer that indicates the incremental value from start parameter value, defaults to 1
+  * **Ex 1:** range1 = range(1, 10, 1)
+    * range1 values contains (1,2,3,4,5,6,7,8,9)
+  * **Syntax 2:** range(start, stop)
+    * start: An integer to start counting from, defaults to 0
+    * stop: An integer to stop the count at
+  * **Ex 2:** range2 = range(10, 16)
+    * range2 values contains (10, 11, 12, 13, 14, 15)
+  * **Syntax 3:** range(stop)
+    * stop: generate a sequence of integers starting from 0 to stop with step 1 
+   * **Ex 3:** range3 = range(5)
+    * range3 values contains (0, 1, 2, 3, 4)
+  
+
+>Note :<br/> 
+Sample Python List code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/list/List.py<br/>
+Sample Python Tuple code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/tuple/Tuple.py<br/>
+
 |List|Tuple|
 |---|---|
 |It is mutable|It is immutable|
@@ -92,6 +116,7 @@ Sample Python Numeric code -> https://github.com/thinessGit/learnPy/blob/main/In
 * https://www.w3schools.com/python/python_lists.asp
 * http://pythontutor.com/
 * https://www.upgrad.com/blog/list-vs-tuple/
+* https://www.tutorialsteacher.com/python/range-method
 
 >By<br/> 
 **Thiness Babu**<br/> 
