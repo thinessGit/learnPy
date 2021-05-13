@@ -32,7 +32,8 @@ Following are the standard or built-in data type of Python:
 Sample Python Strings code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/Strings.py
 
 ### [**Numeric Types**](https://github.com/thinessGit/learnPy/blob/main/Introduction/Numeric.py)
-* ### int (Integers)
+* ### int
+  * int -> Integers
   * (+ve) positive or (-ve) negative whole numbers with no fractional part & unlimited precision
   * int(Integer) values belong to the "**int**" class
   * **Ex:** 5,69,-99,-108
