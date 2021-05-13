@@ -57,8 +57,8 @@ Sample Python Strings code -> https://github.com/thinessGit/learnPy/blob/main/In
 Sample Python Numeric code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/Numeric.py
 
 ### **Sequence Types**
-'#list-link'
-* [**List**](https://github.com/thinessGit/learnPy/blob/main/Introduction/list/List.py#list-link)  
+(#list-link)
+* [**List**](https://github.com/thinessGit/learnPy/blob/main/Introduction/list/List.py)  
   * List is a collection which is ordered and **changeable**. Allows duplicate members
   * Store multiple datatype values in a single variable 
   * items are indexed
