@@ -6,3 +6,9 @@ print("tuple1 type : ",type(tuple1))
 
 tuple2 = [589, "MANU", 89.63, True, "girl"]
 print(tuple2[1])
+
+
+# By
+# Thiness Babu
+# Automation Quality Engineer
+# https://github.com/thinessGit/

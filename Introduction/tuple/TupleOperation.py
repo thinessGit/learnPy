@@ -9,3 +9,10 @@ range1 = range(1, 10, 1)
 
 for counter in range1:
     print(counter)
+
+
+
+# By
+# Thiness Babu
+# Automation Quality Engineer
+# https://github.com/thinessGit/
