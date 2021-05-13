@@ -5,7 +5,7 @@ Data types are the classification or categorization of data storage and operatio
 Following are the standard or built-in data type of Python:
 * **Text Type**:	[Strings](https://github.com/thinessGit/learnPy/blob/main/Introduction/Strings.py)
 * [**Numeric Types**](https://github.com/thinessGit/learnPy/blob/main/Introduction/Numeric.py):	int, float, complex  
-* **Sequence Types**:	list, tuple, range
+* **Sequence Types**:	[list](#list-link), tuple, range
 * **Mapping Type**:	dict
 * **Set Types**:	set, frozenset
 * **Boolean Type**:	bool
@@ -57,7 +57,7 @@ Sample Python Strings code -> https://github.com/thinessGit/learnPy/blob/main/In
 Sample Python Numeric code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/Numeric.py
 
 ### **Sequence Types**
-* [**List**](https://github.com/thinessGit/learnPy/blob/main/Introduction/list/List.py)  
+* [**List**](https://github.com/thinessGit/learnPy/blob/main/Introduction/list/List.py)  '#list-link'
   * List is a collection which is ordered and **changeable**. Allows duplicate members
   * Store multiple datatype values in a single variable 
   * items are indexed
