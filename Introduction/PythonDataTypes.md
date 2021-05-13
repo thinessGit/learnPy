@@ -4,7 +4,7 @@ Data types are the classification or categorization of data storage and operatio
 
 Following are the standard or built-in data type of Python:
 * **Text Type**:	[Strings](#Python Strings)
-* [**Numeric Types**](https://github.com/thinessGit/learnPy/blob/main/Introduction/Numeric.py):	[int](#int), [float](#), [complex](#)  
+* [**Numeric Types**](https://github.com/thinessGit/learnPy/blob/main/Introduction/Numeric.py):	[int](#int), [float](#float), [complex](#complex)  
 * **Sequence Types**:	[list](#List), [tuple](#Tuple), [range](#Range)
 * **Mapping Type**:	dict
 * **Set Types**:	set, frozenset
@@ -37,7 +37,8 @@ Sample Python Strings code -> https://github.com/thinessGit/learnPy/blob/main/In
   * (+ve) positive or (-ve) negative whole numbers with no fractional part & unlimited precision
   * int(Integer) values belong to the "**int**" class
   * **Ex:** 5,69,-99,-108
-* float (Floating Point Numbers)
+* ### float
+  * float -> Floating Point Numbers
   * Real numbers with a fractional part denoted by the decimal symbol "."
   * (+ve) positive or (-ve) negative real numbers
   * float(Floating Point Numbers) values belong to the "**float**" class
@@ -47,7 +48,8 @@ Sample Python Strings code -> https://github.com/thinessGit/learnPy/blob/main/In
     * Floating-point numbers after 4.18×10^149 evaluate to infinity. The smallest non-zero number is 1.89×10^-867
     * 4.18×10^149 -> 4.18e149
     * 1.89×10^-867 -> 1.89e-867  
-* complex (Complex Numbers)
+* ### complex
+  * complex -> Complex Numbers
   * Complex number have Real and Imaginary
   * Imaginary is denoted by letter "j" or "J"
   * **Syntax:** << real part >> + << imaginary part >>  j
