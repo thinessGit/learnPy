@@ -124,7 +124,8 @@ Sample Python **Range** code -> https://github.com/thinessGit/learnPy/blob/main/
 * **Syntax :** {key1: value1, key2: value2, .... keyN: valueN}
     * Items (key: value) inside curly braces {} separated by commas.
 * **Ex :** dict1={91:'India', 44:'United Kingdom', 1: 'United States'}
-  
+ >**Note** :<br/> 
+Sample Python **Dict** code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/dictionaries/Dictionaries.py<br/> 
 
 ### Reference URL :-
 * https://www.geeksforgeeks.org/python-data-types/
