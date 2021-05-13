@@ -71,7 +71,7 @@ Sample Python Numeric code -> https://github.com/thinessGit/learnPy/blob/main/In
   * Round brackets are used **( )**
   * Items are indexed
   * Elements of a mutable tuple items can be changed
-  * **Ex 1:** tuple1 = ("python", "java", "c", "C++")
+  * **Ex 1:** tuple1 = ("python", "java", "c", "C++")<br/> 
 |List|Tuple|
 |---|---|
 |It is mutable|It is immutable|
