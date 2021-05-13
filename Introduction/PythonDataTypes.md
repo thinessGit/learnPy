@@ -6,7 +6,7 @@ Following are the standard or built-in data type of Python:
 * **Text Type**:	Strings
 * **Numeric Types**:	[int](#int), [float](#float), [complex](#complex)  
 * **Sequence Types**:	[list](#List), [tuple](#Tuple), [range](#Range)
-* **Mapping Type**:	dict
+* **Mapping Type**:	[dict](#dict)
 * **Set Types**:	set, frozenset
 * **Boolean Type**:	bool
 * **Binary Types**:	bytes, bytearray, memoryview
@@ -108,10 +108,23 @@ Sample Python Numeric code -> https://github.com/thinessGit/learnPy/blob/main/In
 |listEx = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]|tupleEx = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)|  
 
 >**Note** :<br/> 
-Sample Python List code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/list/List.py<br/>
-Sample Python Tuple code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/tuple/Tuple.py<br/>
-Sample Python Range code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/range/Range.py<br/>
+Sample Python **List** code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/list/List.py<br/>
+Sample Python **Tuple** code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/tuple/Tuple.py<br/>
+Sample Python **Range** code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/range/Range.py<br/>
 
+### dict
+* Expressed as 'Key value' pair (key: value)
+    * Key
+        * Keys must be of immutable type
+        * Unique identifiers for value.
+        * Duplicate keys - last value will overwrite other values written previously for that key
+        * Key can be strings, numbers, or tuples
+    * value
+        * Values can be of any data type and repeated for any key  
+* **Syntax :** {key1: value1, key2: value2, .... keyN: valueN}
+    * Items (key: value) inside curly braces {} separated by commas.
+* **Ex :** dict1={91:'India', 44:'United Kingdom', 1: 'United States'}
+  
 
 ### Reference URL :-
 * https://www.geeksforgeeks.org/python-data-types/
