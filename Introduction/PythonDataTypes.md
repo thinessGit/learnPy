@@ -28,7 +28,7 @@ Following are the standard or built-in data type of Python:
     * **Ex:**  **"""** I <br/> LOVE<br/>  INDIA **"""**
     * **Ex:**  **'''** I <br/> LOVE<br/>  INDIA **'''**
   
->Note :<br/> 
+>**Note** :<br/> 
 Sample Python Strings code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/Strings.py
 
 ### [**Numeric Types**](https://github.com/thinessGit/learnPy/blob/main/Introduction/Numeric.py)
@@ -53,7 +53,7 @@ Sample Python Strings code -> https://github.com/thinessGit/learnPy/blob/main/In
   * **Ex:** 95 + 5J or 95 + 5j
 
   
->Note :<br/> 
+>**Note** :<br/> 
 Sample Python Numeric code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/Numeric.py
 
 ### **Sequence Types**
@@ -103,7 +103,7 @@ Sample Python Numeric code -> https://github.com/thinessGit/learnPy/blob/main/In
 |Unexpected errors and changes can easily occur in lists.|Unexpected errors and changes rarely occur in tuples.|
 |listEx = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]|tupleEx = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)|  
 
->Note :<br/> 
+>**Note** :<br/> 
 Sample Python List code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/list/List.py<br/>
 Sample Python Tuple code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/tuple/Tuple.py<br/>
 Sample Python Range code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/range/Range.py<br/>
