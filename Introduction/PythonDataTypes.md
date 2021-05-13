@@ -3,7 +3,7 @@
 Data types are the classification or categorization of data storage and operations performed on it.
 
 Following are the standard or built-in data type of Python:
-* **Text Type**:	[Strings](#Python Strings)
+* **Text Type**:	[Strings](#Strings)
 * **Numeric Types**:	[int](#int), [float](#float), [complex](#complex)  
 * **Sequence Types**:	[list](#List), [tuple](#Tuple), [range](#Range)
 * **Mapping Type**:	dict
@@ -11,7 +11,7 @@ Following are the standard or built-in data type of Python:
 * **Boolean Type**:	bool
 * **Binary Types**:	bytes, bytearray, memoryview
 
-### [Python Strings](https://github.com/thinessGit/learnPy/blob/main/Introduction/Strings.py)
+### [Strings](https://github.com/thinessGit/learnPy/blob/main/Introduction/Strings.py)
 * Single Quotes ( ' )
   * Single Quotes is to represent strings by enclosing a series of characters
   * Single quotes is used when Double Quotes used in the series of characters
