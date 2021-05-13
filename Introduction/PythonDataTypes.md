@@ -72,6 +72,15 @@ Sample Python Numeric code -> https://github.com/thinessGit/learnPy/blob/main/In
   * Items are indexed
   * Elements of a mutable tuple items can be changed
   * **Ex 1:** tuple1 = ("python", "java", "c", "C++")
+|List|Tuple|
+|---|---|
+|It is mutable|It is immutable|
+|The implication of iterations is time-consuming in the list.|Implications of iterations are much faster in tuples.|
+|Operations like insertion and deletion are better performed.|Elements can be accessed better.|
+|Consumes more memory.|Consumes less memory.|
+|Many built-in methods are available.|Does not have many built-in methods.|
+|Unexpected errors and changes can easily occur in lists.|Unexpected errors and changes rarely occur in tuples.|
+|listEx = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]|tupleEx = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)|  
 * [**Range**](https://github.com/thinessGit/learnPy/blob/main/Introduction/range/Range.py)
   * Iterate a certain number of times in for loops in Python
   * Returns a range object
@@ -97,16 +106,8 @@ Sample Python Numeric code -> https://github.com/thinessGit/learnPy/blob/main/In
 >Note :<br/> 
 Sample Python List code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/list/List.py<br/>
 Sample Python Tuple code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/tuple/Tuple.py<br/>
+Sample Python Range code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/range/Range.py<br/>
 
-|List|Tuple|
-|---|---|
-|It is mutable|It is immutable|
-|The implication of iterations is time-consuming in the list.|Implications of iterations are much faster in tuples.|
-|Operations like insertion and deletion are better performed.|Elements can be accessed better.|
-|Consumes more memory.|Consumes less memory.|
-|Many built-in methods are available.|Does not have many built-in methods.|
-|Unexpected errors and changes can easily occur in lists.|Unexpected errors and changes rarely occur in tuples.|
-|listEx = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]|tupleEx = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)|
 
 ### Reference URL :-
 * https://www.geeksforgeeks.org/python-data-types/
