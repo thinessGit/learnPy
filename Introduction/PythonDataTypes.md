@@ -8,8 +8,8 @@ Following are the standard or built-in data type of Python:
 * **Sequence Types**:	[list](#List), [tuple](#Tuple), [range](#Range)
 * **Mapping Type**:	[dict](#dict)
 * **Set Types**:	[set](#Set), [frozenset](#Frozenset)
-* **Boolean Type**:	bool
-* **Binary Types**:	bytes, bytearray, memoryview
+* **Boolean Type**:	[bool](#Bool)
+* **Binary Types**:	[bytes](#Bytes), [bytearray](#Bytearray), [memoryview](#Memoryview)
 
 ### [Strings](https://github.com/thinessGit/learnPy/blob/main/Introduction/Strings.py)
 * Single Quotes ( ' )
@@ -152,7 +152,36 @@ Sample Python **Set** code -> https://github.com/thinessGit/learnPy/blob/main/In
 
 >**Note** :<br/> 
 Sample Python **Frozenset** code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/Set/Frozenset.py<br/> 
->
+
+### [**Bool**](https://github.com/thinessGit/learnPy/blob/main/Introduction/Bool.py)
+* Bool -> Booleans
+* Booleans represent one of two values: True or False.
+* Truth values of an expression is stored as a python data type called bool
+* Boolean value of Ture or False after comparison used for decision-making 
+* **Ex :** type(True) Output: <class 'bool'>
+
+>**Note** :<br/> 
+Sample Python **Bool** code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/Bool.py<br/> 
+
+### Bytes 
+* Bytes is a data type that consists of 8 bit of memory, where each bit contains either 0 or 1. 
+So a bytes data type can contain a value in the range 0<=x<256. The bytes data type is immutable. 
+* **Ex :** bytes1 = bytes('This is a test string', encoding='utf-8')
+
+### Bytearray
+* Bytearray is a data type that consists of 8 bit of memory, where each bit contains either 0 or 1. 
+So a bytearray data type can contain a value in the range 0<=x<256. Everything is same as bytes, the only difference is that bytearray is mutable
+* **Ex :** bytearray1 = bytearray('This is a test string', encoding='utf-8')
+
+### Memoryview 
+* Memoryview object allows Python to access and modify the values stored within some objects without even loading that data. 
+Instead of loading the data, it works with the memory location of that data. 
+But memoryview can only do this for certain objects, like bytes, bytearray and a few third party objects.
+* **Ex :** 
+  * data = b'Manu'
+  * memoryview1 = memoryview(a)
+  * print(type(memoryview1))
+
 ### Reference URL :-  
 * https://www.geeksforgeeks.org
 * https://docs.python.org
@@ -161,6 +190,7 @@ Sample Python **Frozenset** code -> https://github.com/thinessGit/learnPy/blob/m
 * http://pythontutor.com/
 * https://www.upgrad.com/blog/list-vs-tuple/
 * https://www.tutorialsteacher.com/python
+* https://www.machinelearningwiki.com/
 
 >By<br/> 
 **Thiness Babu**<br/> 
