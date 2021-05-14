@@ -1,4 +1,4 @@
-# Python Operators
+# Arithmetic Operators
 Arithmetic operators perform the common mathematical operation on the numeric operands
 
 |Operator|Description|Syntax|
@@ -10,6 +10,10 @@ Arithmetic operators perform the common mathematical operation on the numeric op
 |//|Division (floor): divides the first operand by the second|x // y|
 |%|Modulus: returns the remainder when first operand is divided by the second|x % y|
 |**|Power : Returns first raised to power second|x ** y|
+
+
+>**Note** :<br/> 
+Sample Python code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/ArithmeticOperators.py
 
 >By<br/> 
 **Thiness Babu**<br/> 
