@@ -150,6 +150,9 @@ Sample Python **Set** code -> https://github.com/thinessGit/learnPy/blob/main/In
 * **Ex 1:** frozenset1 = frozenset([589, "MANU", 89.63, True, "girl"]) -> List is passed as input to frozenset()
 * **Ex 2:** frozenset2 = frozenset({589, "MANU", 89.63, True, "girl"}) -> Set is passed as input to frozenset()
 
+>**Note** :<br/> 
+Sample Python **Frozenset** code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/Set/Frozenset.py<br/> 
+>
 ### Reference URL :-  
 * https://www.geeksforgeeks.org
 * https://docs.python.org
