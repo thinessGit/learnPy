@@ -1,6 +1,6 @@
 # Examples of Arithmetic Operator
-i = 10
-j = 56
+i = 100
+j = 13
 
 # Addition of numbers
 print("Addition")
