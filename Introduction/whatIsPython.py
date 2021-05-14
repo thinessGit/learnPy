@@ -3,8 +3,6 @@
 
 print("Hello")
 
-
-
 # By
 # Thiness Babu
 # Automation Quality Engineer

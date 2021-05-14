@@ -13,15 +13,16 @@
   * interpreter has a “virtual machine” to run the byte code for your system/CPU dependent execution 
 
 
-**Note:** Python interpreters, like PyPy, include a “Just In Time” compiler which turn parts of the byte-code into machine language as needed, for extra speed, without losing the advantages of having an interpreter.
+>**Note:** Python interpreters, like PyPy, include a “Just In Time” compiler which turn parts of the byte-code into machine language as needed, for extra speed, without losing the advantages of having an interpreter.
 
+>**Sample Python code** :<br/> 
+https://github.com/thinessGit/learnPy/blob/main/Introduction/whatIsPython.py<br/>
 
 ### Reference URL :-
 * https://docs.python.org/3/tutorial/index.html
 * https://www.geeksforgeeks.org/python-compiled-or-interpreted/
 * https://stackoverflow.com/questions/6889747/is-python-interpreted-or-compiled-or-both
 * https://discuss.python.org/t/is-python-a-compiled-language-or-an-interpreted-language/6556/3
-
 
 >By<br/> 
 **Thiness Babu**<br/> 

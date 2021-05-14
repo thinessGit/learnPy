@@ -113,16 +113,19 @@ Sample Python **Tuple** code -> https://github.com/thinessGit/learnPy/blob/main/
 Sample Python **Range** code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/range/Range.py<br/>
 
 ### dict
+* dict -> Dictionary 
+* Dictionary is an unordered collection of data values
+* Created by placing sequence of elements within curly {} braces, separated by ‘comma’.
 * Expressed as 'Key value' pair (key: value)
     * Key
         * Keys must be of immutable type
         * Unique identifiers for value.
         * Duplicate keys - last value will overwrite other values written previously for that key
         * Key can be strings, numbers, or tuples
+        * keys are case sensitive
     * value
         * Values can be of any data type and repeated for any key  
-* **Syntax :** {key1: value1, key2: value2, .... keyN: valueN}
-    * Items (key: value) inside curly braces {} separated by commas.
+* **Syntax :** {key1: value1, key2: value2, .... keyN: valueN}   
 * **Ex :** dict1={91:'India', 44:'United Kingdom', 1: 'United States'}
 
 >**Note** :<br/> 
