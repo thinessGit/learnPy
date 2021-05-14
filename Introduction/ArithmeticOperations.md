@@ -11,7 +11,6 @@ Arithmetic operators perform the common mathematical operation on the numeric op
 |%|Modulus: returns the remainder when first operand is divided by the second|x % y|
 |**|Power : Returns first raised to power second|x ** y|
 
-
 >**Note** :<br/> 
 Sample Python code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/ArithmeticOperators.py
 
