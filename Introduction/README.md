@@ -7,7 +7,6 @@
 * [**Anaconda Python Distribution**](https://github.com/thinessGit/learnPy/blob/main/Introduction/AnacondaPythonDistribution.md)
 * [**Data Types**](https://github.com/thinessGit/learnPy/blob/main/Introduction/PythonDataTypes.md)
     
-
 >By<br/> 
 **Thiness Babu**<br/> 
 Automation Quality Engineer<br/>
