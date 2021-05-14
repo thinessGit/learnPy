@@ -1,10 +1,10 @@
 
 
-set1 = {589, "MANU", 89.63, True, "girl"}
+frozenset1 = frozenset([589, "MANU", 89.63, True, "girl"])
 
-print(set1)
+print(frozenset1)
 
-for item in set1:
+for item in frozenset1:
     print(item)
 
 

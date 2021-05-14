@@ -7,7 +7,7 @@ Following are the standard or built-in data type of Python:
 * **Numeric Types**:	[int](#int), [float](#float), [complex](#complex)  
 * **Sequence Types**:	[list](#List), [tuple](#Tuple), [range](#Range)
 * **Mapping Type**:	[dict](#dict)
-* **Set Types**:	[set](#Set), frozenset
+* **Set Types**:	[set](#Set), [frozenset](#Frozenset)
 * **Boolean Type**:	bool
 * **Binary Types**:	bytes, bytearray, memoryview
 
@@ -141,6 +141,14 @@ Sample Python **Dict** code -> https://github.com/thinessGit/learnPy/blob/main/I
 
 >**Note** :<br/> 
 Sample Python **Set** code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/Set/Set.py<br/> 
+
+### [**Frozenset**](https://github.com/thinessGit/learnPy/blob/main/Introduction/Set/Frozenset.py)
+* Frozen set is just an immutable version of a Python set object
+* Items from the frozenset cannot be added or removed once created
+* Unordered collection of items
+* frozenset() function is used to create frozenset object
+* **Ex 1:** frozenset1 = frozenset([589, "MANU", 89.63, True, "girl"]) -> List is passed as input to frozenset()
+* **Ex 2:** frozenset2 = frozenset({589, "MANU", 89.63, True, "girl"}) -> Set is passed as input to frozenset()
 
 ### Reference URL :-  
 * https://www.geeksforgeeks.org
