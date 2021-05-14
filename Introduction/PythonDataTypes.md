@@ -7,7 +7,7 @@ Following are the standard or built-in data type of Python:
 * **Numeric Types**:	[int](#int), [float](#float), [complex](#complex)  
 * **Sequence Types**:	[list](#List), [tuple](#Tuple), [range](#Range)
 * **Mapping Type**:	[dict](#dict)
-* **Set Types**:	set, frozenset
+* **Set Types**:	[set](#Set), frozenset
 * **Boolean Type**:	bool
 * **Binary Types**:	bytes, bytearray, memoryview
 
@@ -112,7 +112,7 @@ Sample Python **List** code -> https://github.com/thinessGit/learnPy/blob/main/I
 Sample Python **Tuple** code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/tuple/Tuple.py<br/>
 Sample Python **Range** code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/range/Range.py<br/>
 
-### dict
+### **dict**
 * dict -> Dictionary 
 * Dictionary is an unordered collection of data values
 * Created by placing sequence of elements within curly {} braces, separated by ‘comma’.
@@ -131,15 +131,25 @@ Sample Python **Range** code -> https://github.com/thinessGit/learnPy/blob/main/
 >**Note** :<br/> 
 Sample Python **Dict** code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/dictionaries/Dictionaries.py<br/> 
 
-### Reference URL :-
-* https://www.geeksforgeeks.org/python-data-types/
-* https://docs.python.org/3/library/stdtypes.html
-* https://www.w3schools.com/python/python_datatypes.asp
-* https://www.programiz.com/python-programming/variables-datatypes
-* https://www.w3schools.com/python/python_lists.asp
+### [**Set**](https://github.com/thinessGit/learnPy/blob/main/Introduction/Set/Set.py)
+* Set is an unordered collection of items
+* Set elements are unique and no duplicates are allowed
+* Set is mutable, add or remove items possible
+* Sets are coded with curly brackets
+* Set operations like union, intersection, symmetric difference, etc
+* **Ex :** set1 = {589, "MANU", 89.63, True, "girl"}
+
+>**Note** :<br/> 
+Sample Python **Set** code -> https://github.com/thinessGit/learnPy/blob/main/Introduction/Set/Set.py<br/> 
+
+### Reference URL :-  
+* https://www.geeksforgeeks.org
+* https://docs.python.org
+* https://www.w3schools.com/python
+* https://www.programiz.com
 * http://pythontutor.com/
 * https://www.upgrad.com/blog/list-vs-tuple/
-* https://www.tutorialsteacher.com/python/range-method
+* https://www.tutorialsteacher.com/python
 
 >By<br/> 
 **Thiness Babu**<br/> 
